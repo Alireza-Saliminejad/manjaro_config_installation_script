@@ -1,5 +1,5 @@
 #!/bin/bash
-dotfilesrepo="https://github.com/victoriousace/manjaro_configs.git"
+dotfilesrepo="https://github.com/Alireza-Saliminejad/manjaro_configs.git"
 repobranch="main"
 export name="$(whoami)"
 
